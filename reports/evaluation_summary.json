@@ -1,0 +1,11 @@
+{
+  "evaluated_files": 6,
+  "labelled_profiles": 3,
+  "top_1_correct": 6,
+  "micro_precision": 1.0,
+  "micro_recall": 1.0,
+  "text_equivalence_passes": 6,
+  "dictionary_skills": 110,
+  "roles": 13,
+  "limitations": "Three authored synthetic profiles, each exported to two formats. Labels were manually specified. This is a smoke evaluation, not independent real-world validation."
+}

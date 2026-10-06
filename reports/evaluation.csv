@@ -1,0 +1,11 @@
+Test resume,Expected top role,Actual top role,Top score,Skill precision,Skill recall,Extraction text equivalent,Result,Comments
+data_analyst.pdf,Data Analyst,Data Analyst,95.5,1.0,1.0,True,PASS,Synthetic labelled fixture; no claim of real-world accuracy.
+data_analyst.docx,Data Analyst,Data Analyst,95.5,1.0,1.0,True,PASS,Synthetic labelled fixture; no claim of real-world accuracy.
+ml_engineer.pdf,Machine Learning Engineer,Machine Learning Engineer,92.7,1.0,1.0,True,PASS,Synthetic labelled fixture; no claim of real-world accuracy.
+ml_engineer.docx,Machine Learning Engineer,Machine Learning Engineer,92.7,1.0,1.0,True,PASS,Synthetic labelled fixture; no claim of real-world accuracy.
+nlp_engineer.pdf,NLP Engineer,NLP Engineer,100.0,1.0,1.0,True,PASS,Synthetic labelled fixture; no claim of real-world accuracy.
+nlp_engineer.docx,NLP Engineer,NLP Engineer,100.0,1.0,1.0,True,PASS,Synthetic labelled fixture; no claim of real-world accuracy.
+Sparse skills,Exploratory - no top-1 assertion,Python Developer,40.2,,,N/A - direct text,PASS,Deterministic text probe; not a labelled hiring outcome.
+Enriched skills,Data Analyst,Data Analyst,65.7,,,N/A - direct text,PASS,Deterministic text probe; not a labelled hiring outcome.
+Protected fields variant A,Data Analyst,Data Analyst,65.7,,,N/A - direct text,PASS,Deterministic text probe; not a labelled hiring outcome.
+Protected fields variant B,Data Analyst,Data Analyst,65.7,,,N/A - direct text,PASS,Deterministic text probe; not a labelled hiring outcome.

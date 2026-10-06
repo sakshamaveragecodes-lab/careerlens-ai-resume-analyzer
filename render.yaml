@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: careerlens-resume-analyzer
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.lock.txt
+    startCommand: python -m streamlit run app.py --server.address=0.0.0.0 --server.port=$PORT
+    healthCheckPath: /_stcore/health
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.12.14
+      - key: MAX_UPLOAD_MB
+        value: "5"

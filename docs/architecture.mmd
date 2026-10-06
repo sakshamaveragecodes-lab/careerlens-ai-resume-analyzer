@@ -1,0 +1,18 @@
+flowchart TD
+    U["Student or job seeker"] --> S["Streamlit session"]
+    S --> V["Validate PDF or DOCX"]
+    V --> P["Extract all readable pages and tables"]
+    P --> C["Clean text and detect sections"]
+    C --> K["Filter personal fields and extract skills"]
+    D["110 skills and aliases"] --> K
+    K --> M["Coverage plus TF-IDF cosine matching"]
+    R["13 curated role profiles"] --> M
+    J["Custom job description"] --> Q["Review extracted requirements"]
+    Q --> M
+    M --> G["Rank roles and identify skill gaps"]
+    G --> L["Order learning dependencies"]
+    D --> L
+    L --> O["Dashboard and in-memory PDF report"]
+    C --> F["Section-based resume feedback"]
+    F --> O
+    O --> X["Clear session to discard analysis"]

@@ -1,0 +1,111 @@
+name,category,aliases,prerequisites,topic,exercise,resource,stage
+Python,Programming Languages,Python3|Python 3,,"Types, functions, collections and file handling",Write a command-line CSV cleaner with input validation and tests.,https://docs.python.org/3/tutorial/,1
+JavaScript,Programming Languages,JS|ECMAScript,,"Functions, objects, async code and browser events",Build a searchable list that reads a local JSON file.,https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide,1
+TypeScript,Programming Languages,TS,JavaScript,"Types, interfaces, generics and strict checking",Add strict types to a small API client and handle errors.,https://www.typescriptlang.org/docs/,2
+Java,Programming Languages,,,"Classes, collections and exception handling",Build a typed command-line task tracker with unit tests.,https://dev.java/learn/,1
+C,Programming Languages,,,"Memory, pointers and compilation",Implement a small array library and test boundary conditions.,https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html,1
+C++,Programming Languages,CPP|C plus plus,,"Classes, containers and RAII",Build a file parser using standard-library containers.,https://isocpp.org/get-started,1
+C#,Programming Languages,C sharp,,"Types, collections and asynchronous programming",Create a small data-processing application with tests.,https://learn.microsoft.com/en-us/dotnet/csharp/,1
+R,Programming Languages,R programming,,"Data frames, vectors and analysis",Clean a public CSV and summarize the results reproducibly.,https://cran.r-project.org/manuals.html,1
+Go,Programming Languages,Golang|Go programming,,"Interfaces, goroutines and HTTP",Implement a small HTTP service with timeout handling.,https://go.dev/tour/,2
+Rust,Programming Languages,,,"Ownership, borrowing and error handling",Build a safe command-line file search tool.,https://doc.rust-lang.org/book/,2
+Bash,Programming Languages,Shell scripting|Bash scripting,,"Pipes, exit codes and environment variables",Automate a reproducible local development setup.,https://www.gnu.org/software/bash/manual/,2
+HTML,Web Development,HTML5,,"Semantic structure, forms and accessible labels",Create a semantic portfolio page with labelled inputs.,https://developer.mozilla.org/en-US/docs/Learn_web_development,1
+CSS,Web Development,CSS3,HTML,"Responsive layout, flexbox and grid",Make a portfolio readable at phone and desktop widths.,https://developer.mozilla.org/en-US/docs/Learn_web_development,1
+React,Web Development,React.js|ReactJS,JavaScript,"Components, state and effects",Build a filterable dashboard with loading and error states.,https://react.dev/learn,2
+Next.js,Web Development,NextJS,React,"Routing, rendering and data loading",Create a small multi-page product with accessible navigation.,https://nextjs.org/docs,3
+Node.js,Web Development,NodeJS,JavaScript,Server-side JavaScript and asynchronous I/O,Build an endpoint with validation and structured errors.,https://nodejs.org/en/learn,2
+Express,Web Development,Express.js,Node.js,"Routing, middleware and API errors",Add request validation and error middleware to a service.,https://expressjs.com/en/starter/installing.html,3
+.NET,Web Development,dotnet|ASP.NET|ASP.NET Core,C#,"Application hosting, dependency injection and APIs",Build and test a typed JSON endpoint.,https://learn.microsoft.com/en-us/dotnet/,2
+Django,Web Development,,Python,"Models, views, forms and migrations",Build a small CRUD app with access-control tests.,https://docs.djangoproject.com/en/stable/intro/tutorial01/,2
+Flask,Web Development,,Python,"Routing, templates and request validation",Build a small API and test invalid input cases.,https://flask.palletsprojects.com/en/stable/quickstart/,2
+FastAPI,Web Development,,Python|REST APIs,Typed request schemas and API documentation,Serve a model through a validated endpoint and test it.,https://fastapi.tiangolo.com/tutorial/,3
+Streamlit,Web Development,,Python,"Widgets, session state and data apps",Build an interactive CSV explorer without persisting uploads.,https://docs.streamlit.io/get-started,2
+REST APIs,APIs,REST API|RESTful|RESTful APIs|REST,,"HTTP methods, status codes and resource design",Design a CRUD API and document requests and error responses.,https://developer.mozilla.org/en-US/docs/Web/HTTP,2
+APIs,APIs,API|Application programming interface,,Request/response contracts and input validation,Call a public test API and handle failures safely.,https://developer.mozilla.org/en-US/docs/Web/HTTP,1
+GraphQL,APIs,,APIs,"Schemas, resolvers and query design",Implement a typed read API with query limits.,https://graphql.org/learn/,3
+SQL,Databases,Structured Query Language,,"Joins, grouping, subqueries and query plans",Answer five business questions from a relational dataset.,https://www.postgresql.org/docs/current/tutorial.html,1
+PostgreSQL,Databases,Postgres,SQL,"Indexes, transactions and relational modelling",Build a schema and compare query plans before and after indexing.,https://www.postgresql.org/docs/current/tutorial.html,2
+MySQL,Databases,,SQL,"Tables, constraints and query optimization",Create a relational schema with keys and safe parameterized queries.,https://dev.mysql.com/doc/,2
+SQLite,Databases,,SQL,Embedded relational databases and transactions,Build a local data store with integrity constraints.,https://www.sqlite.org/docs.html,2
+MongoDB,Databases,,Database Design,"Document models, indexes and aggregation",Model a document dataset and benchmark a query.,https://www.mongodb.com/docs/manual/,2
+Redis,Databases,,Database Design,"Key-value caching, TTLs and invalidation",Cache an expensive calculation and verify expiration.,https://redis.io/docs/latest/,3
+Database Design,Databases,Data modeling|Data modelling,,"Keys, normalization and entity relationships",Draw a schema and justify its integrity constraints.,https://www.postgresql.org/docs/current/tutorial.html,1
+Pandas,Data Analysis,,Python,"Data frames, joins, missing values and grouping",Clean two related CSVs and produce a reproducible summary.,https://pandas.pydata.org/docs/getting_started/index.html,2
+NumPy,Data Analysis,Numpy,Python,"Arrays, broadcasting and vectorized operations",Replace a Python loop with a tested vectorized calculation.,https://numpy.org/doc/stable/user/absolute_beginners.html,2
+Excel,Data Analysis,Microsoft Excel|MS Excel,,"Tables, lookups, formulas and pivot tables",Build a spreadsheet that reconciles inputs and summarizes trends.,https://support.microsoft.com/en-us/excel,1
+Statistics,Data Analysis,Statistical analysis,,"Distributions, sampling and uncertainty",Estimate a mean with a confidence interval and explain assumptions.,https://www.itl.nist.gov/div898/handbook/,1
+Data Visualization,Data Analysis,Data visualisation|Visualization|Visualisation,,"Chart selection, scales and clear annotations",Create three charts that answer explicit analytical questions.,https://matplotlib.org/stable/tutorials/index.html,2
+Matplotlib,Data Analysis,,Python,"Figure layout, axes and chart annotations",Create a labelled chart with units and an accessible palette.,https://matplotlib.org/stable/tutorials/index.html,2
+Seaborn,Data Analysis,,Pandas,Statistical plots and distributions,Compare group distributions with a clearly stated interpretation.,https://seaborn.pydata.org/tutorial.html,2
+Plotly,Data Analysis,,Python,Interactive charts and hover information,Build an interactive ranking chart with an explicit scale.,https://plotly.com/python/,2
+Data Cleaning,Data Analysis,Data cleansing|Data wrangling,Python,"Duplicates, missing values and validation rules",Audit a messy dataset and record each transformation.,https://pandas.pydata.org/docs/getting_started/index.html,2
+EDA,Data Analysis,Exploratory data analysis,Pandas|Statistics,"Distribution checks, correlations and leakage risks",Write an exploratory notebook with five evidence-backed findings.,https://pandas.pydata.org/docs/getting_started/index.html,2
+A/B Testing,Data Analysis,AB testing|A-B testing,Statistics,"Experiment design, power and treatment effects",Analyze a synthetic experiment with uncertainty and limitations.,https://www.itl.nist.gov/div898/handbook/,3
+Machine Learning,Machine Learning,ML,Python|Statistics,"Train/test splits, baselines and model selection",Compare a baseline and a classifier without test-set leakage.,https://scikit-learn.org/stable/user_guide.html,2
+scikit-learn,Machine Learning,sklearn|scikit learn,Machine Learning,"Pipelines, preprocessing and cross-validation",Build a preprocessing-plus-model pipeline with held-out evaluation.,https://scikit-learn.org/stable/user_guide.html,2
+Feature Engineering,Machine Learning,,Pandas|Machine Learning,"Encoding, scaling and leakage-safe transformations",Compare feature sets using a fixed validation protocol.,https://scikit-learn.org/stable/user_guide.html,3
+Model Evaluation,Machine Learning,Model validation,Machine Learning,"Appropriate metrics, error analysis and calibration",Report a confusion matrix and inspect failure cases.,https://scikit-learn.org/stable/user_guide.html,3
+XGBoost,Machine Learning,,Machine Learning,Boosted trees and regularization,Tune a boosted-tree model using cross-validation.,https://xgboost.readthedocs.io/en/stable/tutorials/,3
+Time Series,Machine Learning,Time-series,Statistics|Pandas,"Temporal splits, baselines and forecasting errors",Compare a naive forecast with a trained model on future data.,https://www.statsmodels.org/stable/tsa.html,3
+Deep Learning,Deep Learning,DL,Machine Learning,"Neural networks, losses and optimization",Train a small network and compare it with a simple baseline.,https://pytorch.org/tutorials/,3
+PyTorch,Deep Learning,Torch,Deep Learning,"Tensors, automatic differentiation and training loops",Write a reproducible training loop with validation and checkpoints.,https://pytorch.org/tutorials/,3
+TensorFlow,Deep Learning,Tensor Flow,Deep Learning,"Tensors, models and training",Train and evaluate a small neural network on held-out data.,https://www.tensorflow.org/tutorials,3
+Keras,Deep Learning,,Deep Learning,Sequential and functional model APIs,Build a model with validation-based early stopping.,https://keras.io/guides/,3
+CNN,Deep Learning,CNNs|Convolutional neural network|Convolutional neural networks,Deep Learning,"Convolutions, pooling and transfer learning",Evaluate an image classifier with per-class error analysis.,https://pytorch.org/tutorials/,3
+NLP,NLP,Natural language processing,Python,"Tokenization, text representations and evaluation",Build a text classification baseline and inspect its errors.,https://www.nltk.org/book/,2
+Transformers,NLP,Transformer models|Transformer,Deep Learning|NLP,"Attention, tokenization and transfer learning",Evaluate a small pretrained text model on a held-out set.,https://huggingface.co/docs/transformers/index,3
+Hugging Face,NLP,HuggingFace,Transformers,"Model loading, tokenizers and datasets",Run a documented model locally and record model and data limitations.,https://huggingface.co/docs/transformers/index,3
+spaCy,NLP,Spacy,NLP,"Tokenization, entities and phrase matching",Build a phrase matcher with positive and negative test cases.,https://spacy.io/usage,2
+NLTK,NLP,,NLP,"Tokenization, corpora and classical NLP",Compare tokenization choices on a small labelled text sample.,https://www.nltk.org/book/,2
+TF-IDF,NLP,TFIDF|TF IDF,NLP,"Term frequency, document frequency and normalization",Build a text retrieval baseline and explain the top results.,https://scikit-learn.org/stable/modules/feature_extraction.html#text-feature-extraction,2
+Sentence Transformers,NLP,SentenceTransformers|Sentence-Transformers,NLP,Sentence embeddings and similarity evaluation,Compare retrieval quality against a TF-IDF baseline.,https://sbert.net/docs/quickstart.html,3
+Text Classification,NLP,,NLP|Machine Learning,"Labelling, feature extraction and evaluation",Train a classifier and publish per-class precision and recall.,https://huggingface.co/docs/transformers/index,3
+Named Entity Recognition,NLP,NER,NLP,"Entity spans, annotation and evaluation",Evaluate entity extraction with a held-out annotated sample.,https://huggingface.co/docs/transformers/index,3
+Computer Vision,Computer Vision,CV,Python,"Images, channels, transforms and evaluation",Build a small image-processing pipeline with visual checks.,https://docs.opencv.org/4.x/d9/df8/tutorial_root.html,2
+OpenCV,Computer Vision,Open CV,Computer Vision,"Image I/O, filtering and geometric transforms",Detect shapes under varied lighting and inspect failures.,https://docs.opencv.org/4.x/d9/df8/tutorial_root.html,2
+YOLO,Computer Vision,YOLOv8|YOLOv5|YOLOv11,CNN|Computer Vision,"Object detection, boxes and overlap metrics",Evaluate an object detector on a consented labelled image set.,https://docs.ultralytics.com/,4
+Image Processing,Computer Vision,,Computer Vision,"Filtering, thresholding and morphology",Implement a preprocessing comparison on sample images.,https://docs.opencv.org/4.x/d9/df8/tutorial_root.html,2
+Object Detection,Computer Vision,,CNN|Computer Vision,Detection metrics and localization,"Report precision, recall and localization failures on held-out images.",https://docs.ultralytics.com/tasks/detect/,3
+LLMs,Generative AI,LLM|Large language models|Large language model,NLP,"Language-model behavior, context and evaluation",Compare model answers on a small labelled evaluation set.,https://huggingface.co/learn/llm-course/chapter1/1,3
+RAG,Generative AI,Retrieval augmented generation|Retrieval-augmented generation,LLMs|Embeddings,"Retrieval, grounding and citation checking",Build a document question-answering demo and test unsupported questions.,https://huggingface.co/learn/llm-course/chapter1/1,4
+Prompt Engineering,Generative AI,Prompt design,LLMs,"Task instructions, examples and failure analysis",Design prompts and compare results against fixed evaluation cases.,https://huggingface.co/learn/llm-course/chapter1/1,3
+Fine-tuning,Generative AI,Fine tuning|Finetuning,Transformers,"Adaptation, data splits and overfitting",Evaluate a small adaptation against the unchanged base model.,https://huggingface.co/learn/llm-course/chapter1/1,4
+Embeddings,Generative AI,Embedding models|Embedding,NLP,Vector representations and retrieval metrics,Measure top-k retrieval on labelled query-document pairs.,https://huggingface.co/learn/llm-course/chapter1/1,3
+Vector Databases,Generative AI,Vector database|Vector DB,Embeddings,"Indexing, similarity search and metadata filters",Build a searchable document index and measure retrieval quality.,https://huggingface.co/learn/llm-course/chapter1/1,4
+LangChain,Generative AI,,LLMs|Python,Composable retrieval workflows and explicit state,Implement a small retrieval workflow with source attribution and tests.,https://docs.langchain.com/oss/python/langchain/overview,4
+LlamaIndex,Generative AI,,LLMs|Python,Document indexing and query pipelines,Index a small public document collection and evaluate retrieval.,https://docs.llamaindex.ai/,4
+FAISS,Generative AI,,Embeddings,Vector indexing and nearest-neighbour search,Compare exact and approximate retrieval on a small dataset.,https://github.com/facebookresearch/faiss/wiki/Getting-started,4
+LLM Evaluation,Generative AI,LLM evals,LLMs,"Grounding, task success and adversarial cases","Create an evaluation set with refusal, factuality and retrieval checks.",https://huggingface.co/learn/llm-course/chapter1/1,4
+AWS,Cloud,Amazon Web Services,,"Compute, storage, IAM and cost controls",Deploy a tiny service with minimum permissions and a cleanup plan.,https://docs.aws.amazon.com/,3
+Azure,Cloud,Microsoft Azure,,"Compute, identities, storage and budgets",Deploy a small application and document permissions and cleanup.,https://learn.microsoft.com/en-us/azure/,3
+GCP,Cloud,Google Cloud|Google Cloud Platform,,"Compute, storage, service accounts and quotas",Host a test service with scoped permissions and budget limits.,https://cloud.google.com/docs,3
+Cloud Deployment,Cloud,Cloud hosting,APIs,"Configuration, health checks and deployment lifecycles","Deploy a small service, verify health and document rollback.",https://docs.streamlit.io/deploy,4
+Docker,DevOps,,Linux,"Images, containers, volumes and non-root execution",Containerize a service with a health check and no embedded secrets.,https://docs.docker.com/get-started/,3
+Kubernetes,DevOps,K8s,Docker,"Deployments, services and resource limits",Run a local cluster deployment with probes and limits.,https://kubernetes.io/docs/tutorials/,4
+CI/CD,DevOps,CICD|Continuous integration|Continuous delivery,Git|Unit Testing,"Automated checks, artifacts and controlled releases",Build a CI job that runs tests before publishing an artifact.,https://docs.github.com/en/actions,3
+Linux,DevOps,GNU/Linux,,"Files, processes, permissions and shell basics",Run an application as an unprivileged user and inspect its logs.,https://www.gnu.org/software/coreutils/manual/,1
+Terraform,DevOps,,Cloud Deployment,"Infrastructure declarations, state and review",Describe a small deployment and review the plan before applying.,https://developer.hashicorp.com/terraform/tutorials,4
+Monitoring,DevOps,Observability,,"Health, metrics, logs and alert thresholds",Instrument a service without logging private input data.,https://opentelemetry.io/docs/,4
+MLflow,DevOps,,Machine Learning,"Experiment tracking, artifacts and model versions","Record parameters, metrics and model artifacts for a small experiment.",https://mlflow.org/docs/latest/,4
+DVC,DevOps,Data version control,Git,Dataset versions and reproducible pipelines,Version a sample dataset and reproduce a training run.,https://dvc.org/doc/start,3
+MLOps,DevOps,,Machine Learning|Docker,"Reproducibility, serving and model monitoring",Build a tested training-to-serving pipeline with a rollback strategy.,https://mlflow.org/docs/latest/,4
+ETL,Data Engineering,ELT|Extract transform load,SQL|Python,"Extraction, validation and repeatable transformations",Build an idempotent CSV-to-database pipeline with quality checks.,https://pandas.pydata.org/docs/getting_started/index.html,2
+Apache Spark,Data Engineering,PySpark|Spark,Python|SQL,"Data frames, partitions and distributed transformations",Process a sample dataset and inspect the execution plan.,https://spark.apache.org/docs/latest/,3
+Airflow,Data Engineering,Apache Airflow,ETL,"Task dependencies, scheduling and retries",Build a small pipeline DAG with idempotent retry behavior.,https://airflow.apache.org/docs/apache-airflow/stable/tutorial/index.html,4
+Kafka,Data Engineering,Apache Kafka,Python,"Topics, producers, consumers and delivery semantics",Process a local event stream and handle duplicate messages.,https://kafka.apache.org/documentation/,3
+dbt,Data Engineering,Data build tool,SQL,"SQL transformations, tests and lineage",Create staged models with source freshness and integrity tests.,https://docs.getdbt.com/docs/introduction,3
+Data Warehousing,Data Engineering,Data warehouse,SQL|Database Design,Dimensional models and analytical workloads,Design a star schema and validate its business metrics.,https://learn.microsoft.com/en-us/fabric/data-warehouse/data-warehousing,3
+Power BI,BI Tools,PowerBI,Excel,"Data import, relationships, visuals and refresh",Build a dashboard with documented measures and filters.,https://learn.microsoft.com/en-us/power-bi/fundamentals/,2
+Tableau,BI Tools,,Data Visualization,"Visual analysis, calculated fields and dashboards",Create a dashboard that answers three stakeholder questions.,https://help.tableau.com/current/pro/desktop/en-us/gettingstarted_overview.htm,2
+DAX,BI Tools,Data Analysis Expressions,Power BI,"Measures, filter context and time intelligence",Write and validate three business measures against source totals.,https://learn.microsoft.com/en-us/dax/,3
+Power Query,BI Tools,PowerQuery,Excel,Repeatable import and transformation steps,Clean a workbook through a refreshable query.,https://learn.microsoft.com/en-us/power-query/,2
+Git,Version Control,,,"Commits, branches, diffs and conflict resolution",Track a small project and merge a tested feature branch.,https://git-scm.com/doc,1
+GitHub,Version Control,,Git,"Repositories, pull requests and review",Publish a synthetic-data project with a clear README and CI checks.,https://docs.github.com/en/get-started,2
+Unit Testing,Testing,Unit tests|Unit test,,"Assertions, boundary cases and isolated fixtures","Write tests for valid input, invalid input and a known regression.",https://docs.pytest.org/en/stable/,2
+pytest,Testing,Pytest,Python|Unit Testing,"Fixtures, parametrization and error assertions",Test a parser using synthetic files and malformed inputs.,https://docs.pytest.org/en/stable/,2
+Selenium,Testing,,Unit Testing,Browser automation and semantic locators,Automate a complete form workflow with state assertions.,https://www.selenium.dev/documentation/,3
+Playwright,Testing,,Unit Testing,"Browser contexts, locators and downloads",Test an upload-to-report journey at desktop and phone widths.,https://playwright.dev/docs/intro,3
+Jupyter,Development Tools,Jupyter Notebook|JupyterLab,Python,Reproducible notebooks and execution order,Create a notebook that runs cleanly from top to bottom.,https://jupyter.org/documentation,1
+VS Code,Development Tools,Visual Studio Code,,"Debugging, environments and editor tasks",Configure debugging for a small program and inspect variables.,https://code.visualstudio.com/docs,1
+Postman,Development Tools,,APIs,"API requests, collections and response validation",Create a repeatable API smoke-test collection.,https://learning.postman.com/docs/introduction/overview/,2

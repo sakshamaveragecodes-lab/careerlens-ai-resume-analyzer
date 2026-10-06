@@ -1,0 +1,20 @@
+Synthetic ML Engineer Resume
+Fictional sample for CareerLens testing. No real personal information.
+
+Professional Summary
+Early-career machine learning practitioner building reproducible training and inference workflows.
+
+Core Skills
+Python, Machine Learning, scikit-learn, FastAPI, Docker, Pandas, SQL, Model Evaluation, Git, Unit Testing.
+
+Education
+Bachelor of Computer Science, Sample Institute, 2026. Coursework in algorithms, databases and probability.
+
+Projects
+Demand classifier: prepared 8000 synthetic records in Pandas and SQL. Built a scikit-learn preprocessing and machine learning pipeline, separated validation and test data, and documented model evaluation with a confusion matrix. Served predictions through FastAPI, packaged the service with Docker, and added unit testing for invalid API inputs.
+
+Experience
+Fictional engineering lab: used Python and Git to review preprocessing changes and reproduce model evaluation results. Wrote a setup guide and checked container startup with synthetic examples.
+
+Certifications
+Completed a fictional introductory course in reproducible model development.

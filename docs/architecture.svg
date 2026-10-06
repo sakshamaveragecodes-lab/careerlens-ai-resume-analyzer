@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="720" height="490" preserveAspectRatio="xMinYMin meet" viewBox="0 0 720 490" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="720" height="490"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-490)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="720" height="490" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(96%,97%,96%); fill-rule: evenodd;"/>
+			<path d="M 354,430 L 354,406 Z" style="stroke: rgb(3%,49%,43%); stroke-linecap: butt; stroke-width: 1.4;"/>
+			<polygon points="354 406, 350 413, 358 413" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(3%,49%,43%); fill-rule: evenodd;"/>
+			<path d="M 354,360 L 354,336 Z" style="stroke: rgb(3%,49%,43%); stroke-linecap: butt; stroke-width: 1.4;"/>
+			<polygon points="354 336, 350 343, 358 343" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(3%,49%,43%); fill-rule: evenodd;"/>
+			<path d="M 354,290 L 354,266 Z" style="stroke: rgb(3%,49%,43%); stroke-linecap: butt; stroke-width: 1.4;"/>
+			<polygon points="354 266, 350 273, 358 273" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(3%,49%,43%); fill-rule: evenodd;"/>
+			<path d="M 354,220 L 354,196 Z" style="stroke: rgb(3%,49%,43%); stroke-linecap: butt; stroke-width: 1.4;"/>
+			<polygon points="354 196, 350 203, 358 203" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(3%,49%,43%); fill-rule: evenodd;"/>
+			<path d="M 354,150 L 354,126 Z" style="stroke: rgb(3%,49%,43%); stroke-linecap: butt; stroke-width: 1.4;"/>
+			<polygon points="354 126, 350 133, 358 133" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(3%,49%,43%); fill-rule: evenodd;"/>
+			<path d="M 217,453 L 247,453 Z" style="stroke: rgb(3%,49%,43%); stroke-linecap: butt; stroke-width: 1.4;"/>
+			<polygon points="247 453, 240 449, 240 457" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(3%,49%,43%); fill-rule: evenodd;"/>
+			<path d="M 498,173 L 461,173 Z" style="stroke: rgb(3%,49%,43%); stroke-linecap: butt; stroke-width: 1.4;"/>
+			<polygon points="461 173, 468 169, 468 177" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(3%,49%,43%); fill-rule: evenodd;"/>
+			<path d="M 217,173 L 247,173 Z" style="stroke: rgb(3%,49%,43%); stroke-linecap: butt; stroke-width: 1.4;"/>
+			<polygon points="247 173, 240 169, 240 177" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(3%,49%,43%); fill-rule: evenodd;"/>
+			<path d="M 354,80 L 354,56 Z" style="stroke: rgb(3%,49%,43%); stroke-linecap: butt; stroke-width: 1.4;"/>
+			<polygon points="354 56, 350 63, 358 63" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(3%,49%,43%); fill-rule: evenodd;"/>
+			<rect x="12" y="430" width="205" height="46" rx="8" ry="8" style="stroke: rgb(79%,86%,83%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="47.111572265625" y="458" style="font-family: CareerSans-Bold; font-size: 11px;fill: rgb(9%,22%,26%); stroke:none;" transform="translate(0,916) scale(1,-1)">Student or job seeker</text>
+			<text x="58.55480957031249" y="442" style="font-family: CareerSans; font-size: 8.5px;fill: rgb(32%,42%,44%); stroke:none;" transform="translate(0,884) scale(1,-1)">Text PDF or DOCX resume</text>
+			<rect x="247" y="430" width="214" height="46" rx="8" ry="8" style="stroke: rgb(9%,22%,26%); stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,22%,26%); fill-rule: evenodd;"/>
+			<text x="300.07958984375" y="458" style="font-family: CareerSans-Bold; font-size: 11px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,916) scale(1,-1)">Streamlit session</text>
+			<text x="285.771728515625" y="442" style="font-family: CareerSans; font-size: 8.5px;fill: rgb(77%,89%,84%); stroke:none;" transform="translate(0,884) scale(1,-1)">Upload, validate, show progress</text>
+			<rect x="247" y="360" width="214" height="46" rx="8" ry="8" style="stroke: rgb(79%,86%,83%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="307.392333984375" y="388" style="font-family: CareerSans-Bold; font-size: 11px;fill: rgb(9%,22%,26%); stroke:none;" transform="translate(0,776) scale(1,-1)">Resume parser</text>
+			<text x="277.1617431640625" y="372" style="font-family: CareerSans; font-size: 8.5px;fill: rgb(32%,42%,44%); stroke:none;" transform="translate(0,744) scale(1,-1)">Readable pages, paragraphs, tables</text>
+			<rect x="247" y="290" width="214" height="46" rx="8" ry="8" style="stroke: rgb(79%,86%,83%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="266.856689453125" y="318" style="font-family: CareerSans-Bold; font-size: 11px;fill: rgb(9%,22%,26%); stroke:none;" transform="translate(0,636) scale(1,-1)">Text and section processing</text>
+			<text x="280.33056640625" y="302" style="font-family: CareerSans; font-size: 8.5px;fill: rgb(32%,42%,44%); stroke:none;" transform="translate(0,604) scale(1,-1)">Clean text, exclude personal fields</text>
+			<rect x="498" y="290" width="210" height="46" rx="8" ry="8" style="stroke: rgb(79%,86%,83%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="556.510498046875" y="318" style="font-family: CareerSans-Bold; font-size: 11px;fill: rgb(9%,22%,26%); stroke:none;" transform="translate(0,636) scale(1,-1)">Skill dictionary</text>
+			<text x="536.2119140625" y="302" style="font-family: CareerSans; font-size: 8.5px;fill: rgb(32%,42%,44%); stroke:none;" transform="translate(0,604) scale(1,-1)">110 canonical skills and aliases</text>
+			<path d="M 603,290 L 603,243 Z" style="stroke: rgb(3%,49%,43%); stroke-linecap: butt; stroke-width: 1.4;"/>
+			<path d="M 603,243 L 461,243 Z" style="stroke: rgb(3%,49%,43%); stroke-linecap: butt; stroke-width: 1.4;"/>
+			<polygon points="461 243, 468 239, 468 247" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(3%,49%,43%); fill-rule: evenodd;"/>
+			<rect x="247" y="220" width="214" height="46" rx="8" ry="8" style="stroke: rgb(79%,86%,83%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="307.010986328125" y="248" style="font-family: CareerSans-Bold; font-size: 11px;fill: rgb(9%,22%,26%); stroke:none;" transform="translate(0,496) scale(1,-1)">Skill extraction</text>
+			<text x="275.39990234375" y="232" style="font-family: CareerSans; font-size: 8.5px;fill: rgb(32%,42%,44%); stroke:none;" transform="translate(0,464) scale(1,-1)">Boundary-aware, canonical evidence</text>
+			<rect x="12" y="150" width="205" height="46" rx="8" ry="8" style="stroke: rgb(79%,86%,83%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="42.760986328125" y="178" style="font-family: CareerSans-Bold; font-size: 11px;fill: rgb(9%,22%,26%); stroke:none;" transform="translate(0,356) scale(1,-1)">Custom job description</text>
+			<text x="47.35498046875" y="162" style="font-family: CareerSans; font-size: 8.5px;fill: rgb(32%,42%,44%); stroke:none;" transform="translate(0,324) scale(1,-1)">Review extracted requirements</text>
+			<rect x="498" y="150" width="210" height="46" rx="8" ry="8" style="stroke: rgb(79%,86%,83%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="553.31201171875" y="178" style="font-family: CareerSans-Bold; font-size: 11px;fill: rgb(9%,22%,26%); stroke:none;" transform="translate(0,356) scale(1,-1)">Job-role dataset</text>
+			<text x="536.572998046875" y="162" style="font-family: CareerSans; font-size: 8.5px;fill: rgb(32%,42%,44%); stroke:none;" transform="translate(0,324) scale(1,-1)">13 curated educational profiles</text>
+			<rect x="247" y="150" width="214" height="46" rx="8" ry="8" style="stroke: rgb(79%,86%,83%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="257.43310546875" y="178" style="font-family: CareerSans-Bold; font-size: 11px;fill: rgb(9%,22%,26%); stroke:none;" transform="translate(0,356) scale(1,-1)">Matching and recommendation</text>
+			<text x="298.8392333984375" y="162" style="font-family: CareerSans; font-size: 8.5px;fill: rgb(32%,42%,44%); stroke:none;" transform="translate(0,324) scale(1,-1)">Coverage + TF-IDF cosine</text>
+			<rect x="247" y="80" width="214" height="46" rx="8" ry="8" style="stroke: rgb(79%,86%,83%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="282.11328125" y="108" style="font-family: CareerSans-Bold; font-size: 11px;fill: rgb(9%,22%,26%); stroke:none;" transform="translate(0,216) scale(1,-1)">Gaps and learning plan</text>
+			<text x="286.593505859375" y="92" style="font-family: CareerSans; font-size: 8.5px;fill: rgb(32%,42%,44%); stroke:none;" transform="translate(0,184) scale(1,-1)">Prioritize missing dependencies</text>
+			<rect x="247" y="10" width="214" height="46" rx="8" ry="8" style="stroke: rgb(9%,22%,26%); stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,22%,26%); fill-rule: evenodd;"/>
+			<text x="271.2958984375" y="38" style="font-family: CareerSans-Bold; font-size: 11px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,76) scale(1,-1)">Dashboard and PDF report</text>
+			<text x="284.9354248046875" y="22" style="font-family: CareerSans; font-size: 8.5px;fill: rgb(77%,89%,84%); stroke:none;" transform="translate(0,44) scale(1,-1)">Charts, feedback and next steps</text>
+			<text x="16" y="95" style="font-family: CareerSans-Bold; font-size: 9px;fill: rgb(3%,49%,43%); stroke:none;" transform="translate(0,190) scale(1,-1)">SESSION MEMORY ONLY</text>
+			<text x="16" y="77" style="font-family: Times-Roman; font-size: 9px;fill: rgb(32%,42%,44%); stroke:none;" transform="translate(0,154) scale(1,-1)">No candidate database</text>
+			<text x="16" y="60" style="font-family: Times-Roman; font-size: 9px;fill: rgb(32%,42%,44%); stroke:none;" transform="translate(0,120) scale(1,-1)">No external AI calls</text>
+			<text x="16" y="43" style="font-family: Times-Roman; font-size: 9px;fill: rgb(32%,42%,44%); stroke:none;" transform="translate(0,86) scale(1,-1)">Clear session discards analysis</text>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,16 @@
+.git
+.venv
+venv
+.env
+__pycache__
+.pytest_cache
+.ruff_cache
+.streamlit/secrets.toml
+private_uploads
+uploads
+tmp
+*.log
+docs/screenshots
+docs/demo
+reports
+tests

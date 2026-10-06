@@ -1,0 +1,20 @@
+Synthetic NLP Engineer Resume
+Fictional sample for CareerLens testing. No real personal information.
+
+Profile
+Language technology graduate interested in evaluating text processing systems and documenting model limitations.
+
+Skills
+Python, NLP, Transformers, Hugging Face, spaCy, Text Classification, Named Entity Recognition, PyTorch, Model Evaluation.
+
+Education
+Bachelor of Computer Science, Sample Institute, 2026. Coursework in text processing and software engineering.
+
+Academic Projects
+Support message triage: built a text classification experiment on 6000 synthetic messages using Python, NLP, Transformers and Hugging Face. Compared tokenization settings and recorded model evaluation on a held-out split. Used spaCy for named entity recognition and reviewed false positives. Reproduced a small PyTorch experiment with fixed seeds and saved the evaluation configuration.
+
+Internship Experience
+Fictional language lab: annotated text examples, reviewed disagreement cases and documented errors in the NLP pipeline. Wrote a report explaining where transformer predictions were unreliable.
+
+Achievements
+Presented the fictional text processing study at a classroom demonstration.

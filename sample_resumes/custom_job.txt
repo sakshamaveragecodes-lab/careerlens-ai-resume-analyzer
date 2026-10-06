@@ -1,0 +1,6 @@
+Python API Developer
+Required skills:
+Python, SQL, REST APIs, FastAPI, Docker and Unit Testing.
+Build and maintain tested data APIs.
+Preferred skills:
+PostgreSQL and Redis.

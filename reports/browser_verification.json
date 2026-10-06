@@ -1,0 +1,68 @@
+{
+  "checkedAt": "2026-09-28T18:38:00.228Z",
+  "browser": "141.0.7390.37",
+  "viewport": "1440x1000 and 390x844",
+  "checks": [
+    {
+      "check": "HTTP health endpoint",
+      "status": "PASS"
+    },
+    {
+      "check": "Home renders with disabled Analyze before upload",
+      "status": "PASS"
+    },
+    {
+      "check": "PDF upload, analyze, top three roles and ranking chart",
+      "status": "PASS"
+    },
+    {
+      "check": "Target role change and required/preferred skill gaps",
+      "status": "PASS"
+    },
+    {
+      "check": "Dependency-ordered learning plan renders",
+      "status": "PASS"
+    },
+    {
+      "check": "Resume feedback and section inspection",
+      "status": "PASS"
+    },
+    {
+      "check": "Pasted custom job description analysis",
+      "status": "PASS"
+    },
+    {
+      "check": "Uploaded TXT job description analysis",
+      "status": "PASS"
+    },
+    {
+      "check": "Custom-target PDF report download has valid signature",
+      "status": "PASS"
+    },
+    {
+      "check": "DOCX replacement clears previous results and analyzes successfully",
+      "status": "PASS"
+    },
+    {
+      "check": "Methodology navigation",
+      "status": "PASS"
+    },
+    {
+      "check": "Corrupted PDF displays recoverable error without a crash",
+      "status": "PASS"
+    },
+    {
+      "check": "Clear session resets upload, results and report",
+      "status": "PASS"
+    },
+    {
+      "check": "390px mobile home and analysis have no horizontal page overflow",
+      "status": "PASS"
+    },
+    {
+      "check": "No browser page errors or Streamlit exception overlays",
+      "status": "PASS"
+    }
+  ],
+  "errors": []
+}
